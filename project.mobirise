@@ -31,6 +31,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
     "uniqCompNum": 3,
     "versionPublish": "4.10.0"
   },
