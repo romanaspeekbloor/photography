@@ -3155,6 +3155,32 @@ body {
 .cid-rhHHbUfXU5 {
   background-image: url("../../../assets/images/12-2-2000x1675.jpg");
 }
+.cid-rQGMI6F9vZ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #161616;
+}
+.cid-rQGMI6F9vZ .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rQGMI6F9vZ .section-text {
+  padding: 2rem 0;
+}
+.cid-rQGMI6F9vZ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rQGMI6F9vZ .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rQGMI6F9vZ .section-text DIV {
+  text-align: center;
+}
 .cid-rhHHuNW8Pg {
   padding-top: 90px;
   padding-bottom: 90px;
