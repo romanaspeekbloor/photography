@@ -2725,32 +2725,13 @@ body {
 .cid-rj6iuobI4D .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rhHSRIMoTO {
+.cid-s40574bWrx {
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rhHSRIMoTO .title {
-  margin-bottom: 2rem;
-}
-.cid-rhHSRIMoTO .mbr-section-subtitle {
+.cid-s40574bWrx .mbr-section-subtitle {
   color: #767676;
-}
-.cid-rhHSRIMoTO a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rhHSRIMoTO a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rhHSRIMoTO .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-rhHSRIMoTO .input-group-btn {
-  display: block;
-  text-align: center;
 }
 .cid-rj5Z8x7iVU .navbar {
   background: #333333;
